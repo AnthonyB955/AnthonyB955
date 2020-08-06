@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 👋
 -->
 
-<img alt="Deer" src="../AnthonyB955/images/IMG_3028_1280x640.jpg" />
+![]<img alt="Deer" src="../AnthonyB955/images/IMG_3028_1280x640.jpg" />
 
 ### I'm a Linux Systems Administrator, Red Hat Satellite Administrator, and Developer!
 - 🔭 I’m currently working on Linux/Windows Server Automation

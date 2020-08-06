@@ -1,4 +1,4 @@
-### Hi there, I'm Anthony and welcome to my repositories! 👋
+### Hi there, I'm Anthony and welcome to my repositories! 👋🏾
 
 <!--
 **AnthonyB955/AnthonyB955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👋
 -->
+
+<img alt="Deer" src="../AnthonyB955/images/IMG_3028_1280x640.jpg" />
 
 ### I'm a Linux Systems Administrator, Red Hat Satellite Administrator, and Developer!
 - 🔭 I’m currently working on Linux/Windows Server Automation

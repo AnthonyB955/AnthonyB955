@@ -1,7 +1,7 @@
 ### Hi there, I'm Anthony 👋🏾👲🏿
 
+![](images/IMG_3028_800x400.png)
 
-![](IMG_3028_800x400.jpg)
 ### I'm a Linux Systems Administrator, Red Hat Satellite Administrator, and Developer!
 - 🔭 I’m currently working on Linux/Windows Server Automation
 - 🌱 I’m currently learning everything

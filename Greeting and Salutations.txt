@@ -1,4 +1,4 @@
 Greeting and Salutations!
 
-I am very excited to in learning more about GitLab and GitHub!
+I am very excited in learning more about GitLab and GitHub!
 

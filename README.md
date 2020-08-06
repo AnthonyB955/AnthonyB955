@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### I'm a Linux Systems Administrator, Red Hat Satellite Administrator, and Developer!
-- 🔭 I’m currently working on [Linux/Windows Server Automation][linkedin]
+- 🔭 I’m currently working on [Linux/Windows Server Automation]
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 😄 Goals: Contribute more to Open Source projects

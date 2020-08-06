@@ -1,6 +1,6 @@
 ### Hi there, I'm Anthony 👋🏾👲🏿
 
-![](images/IMG_3028_800x400.png)
+![](<img src="images/IMG_3028_800x400.png" />)
 
 ### I'm a Linux Systems Administrator, Red Hat Satellite Administrator, and Developer!
 - 🔭 I’m currently working on Linux/Windows Server Automation

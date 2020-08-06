@@ -1,4 +1,4 @@
-### Hi there, I'm Anthony and welcome to my repositories! 👋🏾
+### Hi there, I'm Anthony 👋🏾👲🏿
 
 <!--
 **AnthonyB955/AnthonyB955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 - 👋
 -->
 
-![profile]: <img src="images/IMG_3028_1280x640.jpg" />
+![Alt Deer](images/IMG_3028_1200x600.jpg)
 
 ### I'm a Linux Systems Administrator, Red Hat Satellite Administrator, and Developer!
 - 🔭 I’m currently working on Linux/Windows Server Automation
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 😄 Goals: Contribute more to Open Source projects in 2021
+- 😊 Pronouns: he/him
 - ⚡ Fun fact: I love roller skating, fishing, cooking, and listening to all genres of music (Gospel, R&B, Rap, etc.)
 
 <!-- - 🤔 I’m looking for help with ...

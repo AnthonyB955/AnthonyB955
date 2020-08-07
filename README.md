@@ -1,6 +1,6 @@
 ### Hi there, I'm Anthony 👋🏾👲🏿
 
-![Banner][profile]
+![White Tailed Deer][profile]
 
 ### I'm a Linux Systems Administrator, Red Hat Satellite Administrator, and Developer!
 - 🔭 I’m currently working on Linux/Windows Server Automation

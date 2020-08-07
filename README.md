@@ -1,4 +1,4 @@
-### Hi there, I'm Anthony 👋🏾👲🏿
+## Hi there, I'm Anthony 👋🏾👲🏿
 
 ![Alt White Tailed Deer][profile]
 
@@ -43,20 +43,4 @@
 [nodeplaylist]: https://www.youtube.com/playlist?list=PLjgVBqx1_9Vo90RVgXb3m5_JkthM-2Pk8
 [automationplaylist]: https://www.youtube.com/playlist?list=PLjgVBqx1_9VqJfR9ip7zxfQC4wL441uH0
 [reactplaylist]: https://
-
-<!--
-**AnthonyB955/AnthonyB955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👋
--->
 

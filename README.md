@@ -1,6 +1,6 @@
 ### Hi there, I'm Anthony 👋🏾👲🏿
 
-![Anthony's Banner](../images/IMG_3028_800x400.png?raw=true)
+![Anthony's Banner](https://github.com/AnthonyB955/AnthonyB955/blob/master/IMG_3028_800x400.jpg)
 
 ### I'm a Linux Systems Administrator, Red Hat Satellite Administrator, and Developer!
 - 🔭 I’m currently working on Linux/Windows Server Automation

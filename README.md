@@ -1,6 +1,8 @@
 ## Hi there, I'm Anthony 👋🏾👲🏿
 
-![Alt White Tailed Deer][profile]
+<!-- ![Alt White Tailed Deer][profile] -->
+
+
 
 ### I'm a Linux Systems Administrator, Red Hat Satellite Administrator, and Developer!
 - 🔭 I’m currently working on Linux/Windows Server Automation
@@ -8,7 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 😄 Goals: Contribute more to Open Source projects in 2021
 - 😊 Pronouns: he/him
-- ⚡ Fun fact: I love roller skating, fishing, cooking, and listening to all genres of music (Gospel, R&B, Rap, etc.)
+- ⚡ Fun fact: I love photography, roller skating, fishing, cooking, and listening to all genres of music (Gospel, R&B, Rap, etc.)
 
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -26,6 +28,12 @@
 [<img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />][vscodeplaylist]
 [<img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />][cssplaylist] -->
+
+🏠 [Website][website] **|**
+🐦 [Twitter][twitter] **|**
+📺 [YouTube][youtube] **|**
+🕴  [LinkedIn][linkedin] **|**
+
 
 <br />
 <br />

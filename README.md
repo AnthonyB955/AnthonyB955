@@ -2,7 +2,7 @@
 
 <!-- ![Alt White Tailed Deer][profile] -->
 
-![](images/White_Tailed_Deer.jpg)
+![alt Deer](White_Tailed_Deer.jpg)
 
 ### I'm a Linux Systems Administrator, Red Hat Satellite Administrator, and Developer!
 - 🔭 I’m currently working on Linux/Windows Server Automation

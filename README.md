@@ -38,7 +38,7 @@
 <br />
 <br />
 
-[profile]: https://github.com/AnthonyB955/AnthonyB955/blob/master/White_Tailed_Deer.jpg
+[profile]: https://github.com/AnthonyB955/AnthonyB955/blob/master/images/White_Tailed_Deer.jpg
 [website]: https://
 [twitter]: https://
 [youtube]: https://www.youtube.com/

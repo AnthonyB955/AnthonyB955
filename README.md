@@ -1,8 +1,6 @@
 ## Hi there, I'm Anthony 👋🏾👲🏿
 
-<!-- ![Alt White Tailed Deer][profile] -->
-
-![alt Deer][profile]
+![Alt White Tailed Deer][profile]
 
 ### I'm a Linux Systems Administrator, Red Hat Satellite Administrator, and Developer!
 - 🔭 I’m currently working on Linux/Windows Server Automation
@@ -29,10 +27,10 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />][vscodeplaylist]
 [<img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />][cssplaylist] -->
 
-🏠 [Website][website] **|**
+<!-- 🏠 [Website][website] **|**
 🐦 [Twitter][twitter] **|**
 📺 [YouTube][youtube] **|**
-🕴  [LinkedIn][linkedin] **|**
+🕴  [LinkedIn][linkedin] **|** -->
 
 
 <br />

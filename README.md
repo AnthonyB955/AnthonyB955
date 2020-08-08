@@ -5,8 +5,7 @@
 ### I'm a Linux Systems Administrator, Red Hat Satellite Administrator, and Developer!
 - 🔭 I’m currently working on Linux/Windows Server Automation
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 😄 Goals: Contribute more to Open Source projects in 2021
+- 🥅 Goals: Contribute more to Open Source projects in 2021
 - 😊 Pronouns: he/him
 - ⚡ Fun fact: I love photography, roller skating, fishing, cooking, and listening to all genres of music (Gospel, R&B, Rap, etc.)
 
